@@ -1,0 +1,79 @@
+[
+   
+    {
+        "gender":"female",
+        "marital_status":"married",
+        "age_range":23,
+        "address":"rangpur",
+        "education":"genarel",
+        "education_skill":["hafez","maolana","mufti","mufassir","adib"],
+        "race":"kalo",
+        "fiqh":"hanafi",
+        "pesha":"imam",
+        "class":"high"
+    },
+
+    {
+        "gender":"female",
+        "marital_status":"unmarried",
+        "age_range":25,
+        "address":"dhaka",
+        "education":"koumi",
+        "education_skill":["hafez","maolana","mufti","mufassir"],
+        "race":"shamla",
+        "fiqh":"maliki",
+        "pesha":"teacher",
+        "class":"middle"
+    },
+    {
+        "gender":"female",
+        "marital_status":"unmarried",
+        "age_range":22,
+        "address":"khulna",
+        "education":"aliya",
+        "education_skill":["hafez","maolana","mufti"],
+        "race":"ujjolshamla",
+        "fiqh":"shafi",
+        "pesha":"doctor",
+        "class":"low"
+    },
+
+    {
+        "gender":"male",
+        "marital_status":"married",
+        "age_range":23,
+        "address":"rangpur",
+        "education":"genarel",
+        "education_skill":["hafez","maolana","mufti","mufassir","adib"],
+        "race":"kalo",
+        "fiqh":"hanafi",
+        "pesha":"imam",
+        "class":"high"
+    },
+
+    {
+        "gender":"male",
+        "marital_status":"unmarried",
+        "age_range":25,
+        "address":"dhaka",
+        "education":"koumi",
+        "education_skill":["hafez","maolana","mufti","mufassir"],
+        "race":"shamla",
+        "fiqh":"maliki",
+        "pesha":"teacher",
+        "class":"middle"
+    },
+    {
+        "gender":"male",
+        "marital_status":"unmarried",
+        "age_range":22,
+        "address":"khulna",
+        "education":"aliya",
+        "education_skill":["hafez","maolana","mufti"],
+        "race":"ujjolshamla",
+        "fiqh":"shafi",
+        "pesha":"doctor",
+        "class":"low"
+    }
+    
+]
